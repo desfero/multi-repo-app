@@ -1,4 +1,4 @@
-const { add } = require('multi-repo-example-1');
+const { add } = require('@desfero/multi-repo-core');
 
 function sum(arr) {
     return arr.reduce(add)

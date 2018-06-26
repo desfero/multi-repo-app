@@ -1,8 +1,11 @@
 {
-  "name": "multi-repo-app",
+  "name": "@desfero/multi-repo-app",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "@desfero/multi-repo-core": "^1.0.0"
+  }
 }
